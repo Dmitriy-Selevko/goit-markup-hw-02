@@ -20,7 +20,6 @@ a {
 
 .list {
   list-style: none;
-  font-style: normal;
 }
 
 .logo {
@@ -56,6 +55,7 @@ a {
 
 .header-tellandmail {
   color: var(--primary-text-color);
+  font-style: normal;
 }
 
 .hero-title {
@@ -156,6 +156,7 @@ a {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
+  font-style: normal;
 }
 
 .footer-logo,
